@@ -1,1 +1,1 @@
-![подключение к серверу](C:/Users/toxad/Desktop/server.png)
+![подключение к серверу](https://github.com/fire-06/server/blob/main/server.png)
